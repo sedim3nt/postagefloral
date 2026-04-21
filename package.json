@@ -1,0 +1,9 @@
+{
+  "name": "postagefloral",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "mirror": "node scripts/mirror.mjs",
+    "verify": "node scripts/verify.mjs"
+  }
+}
